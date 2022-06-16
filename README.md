@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @Starmaster99
-- 👀 I’m interested in programming and annoying people
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in programming and other techy things
+- 🌱 I’m currently learning Python and configuring my Arch Linux system
 - 📫 You can contact me by email: starforce882@gmail.com
 
 Sorry for bad english, I need more practice.
-I've been going through much lately. I entered the university at my home town at the Faculty of Computer Science and wrote some exams. Turns out, I'm quite a smart student! I got all the A marks for all eight subjects we are learning. Stydying here isn't that hard, actually. I also started learning C++ and I like Python much more now. We barely touched working with memory, but I hope everything will be fine. Anyway, I'm on my holidays now and I've got some plans to do here and there.
+Well, we all know that Ukraine has been going through much lately. I just can't express what atrocities our "big and friendly brother" is doing to my people. Thousands of them lost their jobs, homes, and even friends and relatives. Personally I am living in occupied territory, Zaporizhya oblast', and we are having hard time dealing with economic catastrophe here. Just trying to live normally and believing in bright and peaceful future. I got stable internet connection several days ago and I can come back to learning new stuff.
 
-Oh, by the way, Happy New Year everyone!
+Stay safe. Слава Україні! 🇺🇦
 
 <!---
 Starmaster99/Starmaster99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
