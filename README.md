@@ -1,14 +1,21 @@
-- 👋 Hi, I’m @Starmaster99
-- 👀 I’m interested in programming and other techy things
-- 🌱 I’m currently learning Python and configuring my Arch Linux system
-- 📫 You can contact me by email: starforce882@gmail.com
+# Hi there! :wave:
 
-Sorry for bad english, I need more practice.
-Well, we all know that Ukraine has been going through much lately. I just can't express what atrocities our "big and friendly brother" is doing to my people. Thousands of them lost their jobs, homes, and even friends and relatives. Personally I am living in occupied territory, Zaporizhya oblast', and we are having hard time dealing with economic catastrophe here. Just trying to live normally and believing in bright and peaceful future. I got stable internet connection several days ago and I can come back to learning new stuff.
+I'm an aspiring DevOps engineer, GNU/Linux enthusiast, a minimalistic desing enjoyer, 
+a [tilde-community](https://rawtext.club) member, a novice chess player and a 
+second course computer science student. A proud owner of a self-built Debian server 
+from an old PC (which runs a bunch of services). I use it as my homelab and store media 
+on it.
 
-Stay safe. Слава Україні! 🇺🇦
+Languages and technologies:
 
-<!---
-Starmaster99/Starmaster99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Vagrant](https://img.shields.io/badge/-Vagrant-000?&logo=Vagrant)
+![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
+
+Feel free to contact with me:
+
+![Gmail](https://img.shields.io/badge/-starforce882@gmail.com-000?&logo=Gmail)
