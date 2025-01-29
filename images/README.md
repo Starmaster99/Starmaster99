@@ -1,0 +1,1 @@
+This is a directory for public images I sometimes need. There is nothing to see here.
